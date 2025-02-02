@@ -1,0 +1,365 @@
+论文标题：Moelora: An moe-based parameter efficient fine-tuning method for multi-task medical applications
+该论文被引用次数：72
+该论文被检索到的引用文献：
+1. Parameter-efficient fine-tuning methods for pretrained language models: A critical review and assessment
+2. The Art of Balancing: Revolutionizing Mixture of Experts for Maintaining World Knowledge in Language Model Alignment
+3. [PDF] Loramoe: Revolutionizing mixture of experts for maintaining world knowledge in language model alignment
+4. A survey on lora of large language models
+5. A Framework to Implement 1+ N Multi-task Fine-tuning Pattern in LLMs Using the CGC-LORA Algorithm
+6. Llava-mole: Sparse mixture of lora experts for mitigating data conflicts in instruction finetuning mllms
+7. Large language model distilling medication recommendation model
+8. Higher layers need more lora experts
+9. Loraretriever: Input-aware lora retrieval and composition for mixed tasks in the wild
+10. Both Matter: Enhancing the Emotional Intelligence of Large Language Models without Compromising the General Intelligence
+11. Neeko: Leveraging Dynamic LoRA for Efficient Multi-Character Role-Playing Agent
+12. CoIN: A Benchmark of Continual Instruction tuNing for Multimodel Large Language Model
+13. Parameter-efficient fine-tuning for large models: A comprehensive survey
+14. Heterogeneous contrastive learning for foundation models and beyond
+15. Facial affective behavior analysis with instruction tuning
+16. MING-MOE: Enhancing Medical Multi-Task Learning in Large Language Models with Sparse Mixture of Low-Rank Adapter Experts
+17. Mixlora: Enhancing large language models fine-tuning with lora based mixture of experts
+18. HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning
+19. [PDF] Empowering Emotional Support Chatbots with Large Language Models
+20. PhysMLE: Generalizable and Priors-Inclusive Multi-task Remote Physiological Measurement
+21. Efficient training and inference: Techniques for large language models using llama
+22. LoRA-Switch: Boosting the Efficiency of Dynamic LLM Adapters via System-Algorithm Co-design
+23. Large Language Models Enhanced Sequential Recommendation for Long-tail User and Item
+24. CorDA: Context-Oriented Decomposition Adaptation of Large Language Models
+25. A Parameter-efficient Language Extension Framework for Multilingual ASR
+26. RS-GPT4V: A Unified Multimodal Instruction-Following Dataset for Remote Sensing Image Understanding
+27. AdaMoE: Token-Adaptive Routing with Null Experts for Mixture-of-Experts Language Models
+28. Retrieval-augmented mixture of lora experts for uploadable machine learning
+29. A survey on mixture of experts
+30. Improving Abstractive Summarization with Unsupervised Dynamic LoRA Mixtures
+31. Let the Expert Stick to His Last: Expert-Specialized Fine-Tuning for Sparse Architectural Large Language Models
+32. IterClean: An Iterative Data Cleaning Framework with Large Language Models
+33. RoDE: Linear Rectified Mixture of Diverse Experts for Food Large Multi-Modal Models
+34. AI Act for the Working Programmer
+35. Identity-driven hierarchical role-playing agents
+36. MoDE: Effective Multi-task Parameter Efficient Fine-Tuning with a Mixture of Dyadic Experts
+37. Enhancing Security in Modern Medical Devices: The MEDICALHARM Methodology and CyberLlama2
+38. LoRAMoE: Alleviating World Knowledge Forgetting in Large Language Models via MoE-Style Plugin
+39. Multi-LoRA Fine-Tuned Segment Anything Model for Urban Man-Made Object Extraction
+40. Efficient Mixture of Experts based on Large Language Models for Low-Resource Data Preprocessing
+41. Leveraging Open Knowledge for Advancing Task Expertise in Large Language Models
+42. Survey of different Large Language Model Architectures: Trends, Benchmarks, and Challenges
+43. Merging LoRAs like Playing LEGO: Pushing the Modularity of LoRA to Extremes Through Rank-Wise Clustering
+44. Uni-Med: A Unified Medical Generalist Foundation Model For Multi-Task Learning Via Connector-MoE
+45. HDMoLE: Mixture of LoRA Experts with Hierarchical Routing and Dynamic Thresholds for Fine-Tuning LLM-based ASR Models
+46. MERGING LORAS LIKE PLAYING LEGO: PUSH
+47. DynMoLE: Boosting Mixture of LoRA Experts Fine-Tuning with a Hybrid Routing Mechanism
+48. MTL-LoRA: Low-Rank Adaptation for Multi-Task Learning
+49. AlphaLoRA: Assigning LoRA Experts Based on Layer Training Quality
+50. DEeR: Deviation Eliminating and Noise Regulating for Privacy-preserving Federated Low-rank Adaptation
+51. MoR: Mixture of Ranks for Low-Rank Adaptation Tuning
+52. MiLoRA: Efficient Mixture of Low-Rank Adaptation for Large Language Models Fine-tuning
+53. MiLoRA: Efficient Mixture of Low-Rank Adaptation for Large Language Models Fine-tuning
+54. Parameter-Efficient Fine-Tuning in Large Models: A Survey of Methodologies
+55. A Survey of Small Language Models
+56. Reparameterization-Based Parameter-Efficient Fine-Tuning Methods for Large Language Models: A Systematic Survey
+57. CorDA: Context-Oriented Decomposition Adaptation of Large Language Models for Task-Aware Parameter-Efficient Fine-tuning
+58. Instance-Level Dynamic LoRAs Composition for Cross-Task Generalization
+59. From General to Specific: Utilizing General Hallucation to Automatically Measure the Role Relationship Fidelity for Specific Role-Play Agents
+60. Separable Mixture of Low-Rank Adaptation for Continual Visual Instruction Tuning
+61. Separable Mixture of Low-Rank Adaptation for Continual Visual Instruction Tuning
+62. BoRA: Bi-dimensional Weight-Decomposed Low-Rank Adaptation
+63. Advancing Single-and Multi-task Text Classification through Large Language Model Fine-tuning
+64. MoSLD: An Extremely Parameter-Efficient Mixture-of-Shared LoRAs for Multi-Task Learning
+65. A Survey on Inference Optimization Techniques for Mixture of Experts Models
+66. GraphLoRA: Empowering LLMs Fine-Tuning via Graph Collaboration of MoE
+67. Low-Rank Adaptation for Foundation Models: A Comprehensive Review
+68. The Scaling Law for LoRA Base on Mutual Information Upper Bound
+69. [PDF] Exploring the Landscape of Large and Small Language Models: Advancements, Trade-offs, and Future Directions
+
+论文标题：Moelora: Contrastive learning guided mixture of experts on parameter-efficient fine-tuning for large language models
+该论文被引用次数：24
+该论文被检索到的引用文献：
+1. Neeko: Leveraging Dynamic LoRA for Efficient Multi-Character Role-Playing Agent
+2. LoRA-Switch: Boosting the Efficiency of Dynamic LLM Adapters via System-Algorithm Co-design
+3. Using Contrastive Learning with Generative Similarity to Learn Spaces that Capture Human Inductive Biases
+4. Unlocking continual learning abilities in language models
+5. A survey on mixture of experts
+6. Teamlora: Boosting low-rank adaptation with expert collaboration and competition
+7. Upcycling Instruction Tuning from Dense to Mixture-of-Experts via Parameter Merging
+8. DynMoLE: Boosting Mixture of LoRA Experts Fine-Tuning with a Hybrid Routing Mechanism
+9. Functional-level Uncertainty Quantification for Calibrated Fine-tuning on LLMs
+10. AlphaLoRA: Assigning LoRA Experts Based on Layer Training Quality
+11. AlphaLoRA: Assigning LoRA Experts Based on Layer Training Quality
+12. A Survey of Small Language Models
+13. MALoRA: Mixture of Asymmetric Low-Rank Adaptation for Enhanced Multi-Task Learning
+14. Iterative Large Language Models Evolution through Self-Critique
+15. PERFT: Parameter-Efficient Routed Fine-Tuning for Mixture-of-Expert Model
+16. Iterative Large Language Models Evolution through Self-Critique
+17. Аналіз настроїв текстових повідомлень із використанням методів машинного навчання
+18. 法律案件要素识别混合专家大模型.
+19. Advancing Single-and Multi-task Text Classification through Large Language Model Fine-tuning
+20. MoSLD: An Extremely Parameter-Efficient Mixture-of-Shared LoRAs for Multi-Task Learning
+21. A Survey on Inference Optimization Techniques for Mixture of Experts Models
+22. GraphLoRA: Empowering LLMs Fine-Tuning via Graph Collaboration of MoE
+23. VELoRA: A Low-Rank Adaptation Approach for Efficient RGB-Event based Recognition
+24. Low-Rank Adaptation for Foundation Models: A Comprehensive Review
+
+论文标题：LoRAMoE: Alleviating World Knowledge Forgetting in Large Language Models via MoE-Style Plugin
+该论文被引用次数：9
+该论文被检索到的引用文献：
+1. A survey on lora of large language models
+2. Visual Attention Estimation Algorithm and Dynamic Neural Network Based Object Detection for Intelligent Vehicles
+3. CorDA: Context-Oriented Decomposition Adaptation of Large Language Models
+4. The Evolution of Mixture of Experts: A Survey from Basics to Breakthroughs
+5. MoE-LPR: Multilingual Extension of Large Language Models through Mixture-of-Experts with Language Priors Routing
+6. CITI: Enhancing Tool Utilizing Ability in Large Language Models without Sacrificing General Performance
+7. HDMoLE: Mixture of LoRA Experts with Hierarchical Routing and Dynamic Thresholds for Fine-Tuning LLM-based ASR Models
+8. DLP-LoRA: Efficient Task-Specific LoRA Fusion with a Dynamic, Lightweight Plugin for Large Language Models
+9. AlphaLoRA: Assigning LoRA Experts Based on Layer Training Quality
+
+论文标题：Higher layers need more lora experts
+该论文被引用次数：30
+该论文被检索到的引用文献：
+1. [PDF] MoSA: Mixture of Sparse Adapters for Visual Efficient Tuning
+2. A survey on lora of large language models
+3. Shortcut-connected Expert Parallelism for Accelerating Mixture-of-Experts
+4. 基于联邦分割学习与低秩适应的RoBERTa 预训练模型微调方法.
+5. AdaMoLE: Fine-Tuning Large Language Models with Adaptive Mixture of Low-Rank Adaptation Experts
+6. MiniGPT-3D: Efficiently Aligning 3D Point Clouds with Large Language Models using 2D Priors
+7. LoRA-Switch: Boosting the Efficiency of Dynamic LLM Adapters via System-Algorithm Co-design
+8. MLAE: Masked LoRA Experts for Parameter-Efficient Fine-Tuning
+9. AdaMoE: Token-Adaptive Routing with Null Experts for Mixture-of-Experts Language Models
+10. Retrieval-augmented mixture of lora experts for uploadable machine learning
+11. A survey on mixture of experts
+12. Low-Rank Interconnected Adaptation Across Layers
+13. [PDF] MoBA: Mixture of Bi-directional Adapter for Multi-modal Sarcasm Detection
+14. Teamlora: Boosting low-rank adaptation with expert collaboration and competition
+15. DynMoLE: Boosting Mixture of LoRA Experts Fine-Tuning with a Hybrid Routing Mechanism
+16. SLIM: Let LLM Learn More and Forget Less with Soft LoRA and Identity Mixture
+17. AT-MoE: Adaptive Task-planning Mixture of Experts via LoRA Approach
+18. AlphaLoRA: Assigning LoRA Experts Based on Layer Training Quality
+19. Towards Optimal Adapter Placement for Efficient Transfer Learning
+20. MALoRA: Mixture of Asymmetric Low-Rank Adaptation for Enhanced Multi-Task Learning
+21. What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective
+22. Reparameterization-Based Parameter-Efficient Fine-Tuning Methods for Large Language Models: A Systematic Survey
+23. Sparse Mixture of Experts Language Models Excel in Knowledge Distillation
+24. Sparse Mixture of Experts Language Models Excel in Knowledge Distillation
+25. Reparameterization-Based Parameter-Efficient Fine-Tuning Methods for Large Language Models: A Systematic Survey
+26. Advancing Single-and Multi-task Text Classification through Large Language Model Fine-tuning
+27. MoSLD: An Extremely Parameter-Efficient Mixture-of-Shared LoRAs for Multi-Task Learning
+28. A Survey on Inference Optimization Techniques for Mixture of Experts Models
+29. GraphLoRA: Empowering LLMs Fine-Tuning via Graph Collaboration of MoE
+30. Low-Rank Adaptation for Foundation Models: A Comprehensive Review
+
+论文标题：MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning
+该论文被引用次数：17
+该论文被检索到的引用文献：
+1. Rapid Biomedical Research Classification: The Pandemic PACT Advanced Categorisation Engine
+2. Accurate and Efficient Fine-Tuning of Quantized Large Language Models Through Optimal Balance
+3. Open Llama2 Model for the Lithuanian Language
+4. DARES: Depth Anything in Robotic Endoscopic Surgery with Self-supervised Vector-LoRA of the Foundation Model
+5. PMSS: Pretrained Matrices Skeleton Selection for LLM Fine-tuning
+6. Pear: Pruning and Sharing Adapters in Visual Parameter-Efficient Fine-Tuning
+7. FROM LOW TO ARBITRARY RANK
+8. SLIM: Let LLM Learn More and Forget Less with Soft LoRA and Identity Mixture
+9. Prompt Compression for Large Language Models: A Survey
+10. FROM LOW TO ARBITRARY RANK
+11. SLIM: Let LLM Learn More and Forget Less with Soft LoRA and Identity Mixture
+12. Prompt Compression for Large Language Models: A Survey
+13. [PDF] Optimizing Fine-Tuning in Quantized Language Models: An In-Depth Analysis of Key Variables
+14. SFT: Efficient, Scalable and Generalizable LLM Fine-tuning by Structured Sparsity
+15. Learning from" Silly" Questions Improves Large Language Models, But Only Slightly
+16. BoRA: Bi-dimensional Weight-Decomposed Low-Rank Adaptation
+
+论文标题：Mixlora: Enhancing large language models fine-tuning with lora based mixture of experts
+该论文被引用次数：30
+该论文被检索到的引用文献：
+1. LoRA-Switch: Boosting the Efficiency of Dynamic LLM Adapters via System-Algorithm Co-design
+2. Aligning to thousands of preferences via system message generalization
+3. AdaMoE: Token-Adaptive Routing with Null Experts for Mixture-of-Experts Language Models
+4. A survey on mixture of experts
+5. Affective computing in the era of large language models: A survey from the nlp perspective
+6. MoDE: Effective Multi-task Parameter Efficient Fine-Tuning with a Mixture of Dyadic Experts
+7. Teamlora: Boosting low-rank adaptation with expert collaboration and competition
+8. Leveraging Open Knowledge for Advancing Task Expertise in Large Language Models
+9. Survey of different Large Language Model Architectures: Trends, Benchmarks, and Challenges
+10. HDMoLE: Mixture of LoRA Experts with Hierarchical Routing and Dynamic Thresholds for Fine-Tuning LLM-based ASR Models
+11. DLP-LoRA: Efficient Task-Specific LoRA Fusion with a Dynamic, Lightweight Plugin for Large Language Models
+12. DynMoLE: Boosting Mixture of LoRA Experts Fine-Tuning with a Hybrid Routing Mechanism
+13. Functional-level Uncertainty Quantification for Calibrated Fine-tuning on LLMs
+14. SLIM: Let LLM Learn More and Forget Less with Soft LoRA and Identity Mixture
+15. AlphaLoRA: Assigning LoRA Experts Based on Layer Training Quality
+16. MoMQ: Mixture-of-Experts Enhances Multi-Dialect Query Generation across Relational and Non-Relational Databases
+17. AlphaLoRA: Assigning LoRA Experts Based on Layer Training Quality
+18. MoMQ: Mixture-of-Experts Enhances Multi-Dialect Query Generation across Relational and Non-Relational Databases
+19. MALoRA: Mixture of Asymmetric Low-Rank Adaptation for Enhanced Multi-Task Learning
+20. MALoRA: Mixture of Asymmetric Low-Rank Adaptation for Enhanced Multi-Task Learning
+21. AmoebaLLM: Constructing Any-Shape Large Language Models for Efficient and Instant Deployment
+22. Rethinking Strategic Mechanism Design In The Age Of Large Language Models: New Directions For Communication Systems
+23. DataLab: A Unifed Platform for LLM-Powered Business Intelligence
+24. Customize Segment Anything Model for Multi-Modal Semantic Segmentation with Mixture of LoRA Experts
+25. A Unified Convergence Theory for Large Language Model Efficient Fine-tuning
+26. MoSLD: An Extremely Parameter-Efficient Mixture-of-Shared LoRAs for Multi-Task Learning
+27. " They've Stolen My GPL-Licensed Model!": Toward Standardized and Transparent Model Licensing
+28. GraphLoRA: Empowering LLMs Fine-Tuning via Graph Collaboration of MoE
+29. Trustworthy and Efficient LLMs Meet Databases
+30. Optimizing Large Language Models with an Enhanced LoRA Fine-Tuning Algorithm for Efficiency and Robustness in NLP Tasks
+
+论文标题：Mixture-of-Subspaces in Low-Rank Adaptation
+该论文被引用次数：8
+该论文被检索到的引用文献：
+1. Low-Rank Interconnected Adaptation Across Layers
+2. MoR: Mixture of Ranks for Low-Rank Adaptation Tuning
+3. MoR: Mixture of Ranks for Low-Rank Adaptation Tuning
+4. Linear Chain Transformation: Expanding Optimization Dynamics for Fine-Tuning Large Language Models
+5. Linear Chain Transformation: Expanding Optimization Dynamics for Fine-Tuning Large Language Models
+6. Linear Chain Transformation: Expanding Optimization Dynamics for Fine-Tuning Large Language Models
+7. Adaptive Rank, Reduced Forgetting: Knowledge Retention in Continual Learning Vision-Language Models with Dynamic Rank-Selective LoRA
+8. Quantization Meets Reasoning: Exploring LLM Low-Bit Quantization Degradation for Mathematical Reasoning
+
+论文标题：MoRAL: MoE Augmented LoRA for LLMs' Lifelong Learning
+该论文被引用次数：32
+该论文被检索到的引用文献：
+1. A survey on lora of large language models
+2. Prompt-saw: Leveraging relation-aware graphs for textual prompt compression
+3. Dialectical alignment: Resolving the tension of 3h and security threats of llms
+4. Multi-hop question answering under temporal knowledge editing
+5. Mixlora: Enhancing large language models fine-tuning with lora based mixture of experts
+6. MeteoRA: Multiple-tasks Embedded LoRA for Large Language Models
+7. Leveraging Logical Rules in Knowledge Editing: A Cherry on the Top
+8. Editable Concept Bottleneck Models
+9. LoRA-Switch: Boosting the Efficiency of Dynamic LLM Adapters via System-Algorithm Co-design
+10. Auto-selected Knowledge Adapters for Lifelong Person Re-identification
+11. Towards Lifelong Learning of Large Language Models: A Survey
+12. CITI: Enhancing Tool Utilizing Ability in Large Language Models without Sacrificing General Performance
+13. HDMoLE: Mixture of LoRA Experts with Hierarchical Routing and Dynamic Thresholds for Fine-Tuning LLM-based ASR Models
+14. [PDF] Recent Advances in Robot Navigation via Large Language Models: A Review
+15. DynMoLE: Boosting Mixture of LoRA Experts Fine-Tuning with a Hybrid Routing Mechanism
+16. Understanding Reasoning in Chain-of-Thought from the Hopfieldian View
+17. Functional-level Uncertainty Quantification for Calibrated Fine-tuning on LLMs
+18. AT-MoE: Adaptive Task-planning Mixture of Experts via LoRA Approach
+19. AlphaLoRA: Assigning LoRA Experts Based on Layer Training Quality
+20. MiLoRA: Efficient Mixture of Low-Rank Adaptation for Large Language Models Fine-tuning
+21. A Survey of Small Language Models
+22. Towards Multi-dimensional Explanation Alignment for Medical Classification
+23. MALoRA: Mixture of Asymmetric Low-Rank Adaptation for Enhanced Multi-Task Learning
+24. MALoRA: Mixture of Asymmetric Low-Rank Adaptation for Enhanced Multi-Task Learning
+25. MALoRA: Mixture of Asymmetric Low-Rank Adaptation for Enhanced Multi-Task Learning
+26. Advancing Single-and Multi-task Text Classification through Large Language Model Fine-tuning
+27. GraphLoRA: Empowering LLMs Fine-Tuning via Graph Collaboration of MoE
+28. Low-Rank Adaptation for Foundation Models: A Comprehensive Review
+29. The Scaling Law for LoRA Base on Mutual Information Upper Bound
+30. [PDF] Exploring the Landscape of Large and Small Language Models: Advancements, Trade-offs, and Future Directions
+
+论文标题：Mixture of cluster-conditional lora experts for vision-language instruction tuning
+该论文被引用次数：59
+该论文被检索到的引用文献：
+1. [PDF] MoSA: Mixture of Sparse Adapters for Visual Efficient Tuning
+2. [PDF] TrackDiffusion: Tracklet-Conditioned Video Generation via Diffusion Models
+3. Parameter-Efficient Sparsity Crafting from Dense to Mixture-of-Experts for Instruction Tuning on General Tasks
+4. A survey on lora of large language models
+5. Moe-llava: Mixture of experts for large vision-language models
+6. Llava-mole: Sparse mixture of lora experts for mitigating data conflicts in instruction finetuning mllms
+7. Learning to route among specialized experts for zero-shot generalization
+8. CoTBal: Comprehensive Task Balancing for Multi-Task Visual Instruction Tuning
+9. Mope-clip: Structured pruning for efficient vision-language models with module-wise pruning error metric
+10. Eyes closed, safety on: Protecting multimodal llms via image-to-text transformation
+11. LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning
+12. Self-Expansion of Pre-trained Models with Mixture of Adapters for Continual Learning
+13. Shortcut-connected Expert Parallelism for Accelerating Mixture-of-Experts
+14. Automated evaluation of large vision-language models on self-driving corner cases
+15. Mixture of insighTful Experts (MoTE): The Synergy of Thought Chains and Expert Mixtures in Self-Alignment
+16. AdaMoLE: Fine-Tuning Large Language Models with Adaptive Mixture of Low-Rank Adaptation Experts
+17. Towards modular llms by building and reusing a library of loras
+18. LoRA-Switch: Boosting the Efficiency of Dynamic LLM Adapters via System-Algorithm Co-design
+19. Exploring Training on Heterogeneous Data with Mixture of Low-rank Adapters
+20. Personalized Pieces: Efficient Personalized Large Language Models through Collaborative Efforts
+21. A survey on mixture of experts
+22. Lemoe: Advanced mixture of experts adaptor for lifelong model editing of large language models
+23. Mome: Mixture of multimodal experts for generalist multimodal large language models
+24. RoDE: Linear Rectified Mixture of Diverse Experts for Food Large Multi-Modal Models
+25. Not All Attention is Needed: Parameter and Computation Efficient Tuning for Multi-modal Large Language Models via Effective Attention Skipping
+26. Q-MoE: Connector for MLLMs with Text-Driven Routing
+27. EEGMamba: Bidirectional State Space Models with Mixture of Experts for EEG Classification
+28. Harmonizing Visual Text Comprehension and Generation
+29. Improving Factuality in Large Language Models via Decoding-Time Hallucinatory and Truthful Comparators
+30. CITI: Enhancing Tool Utilizing Ability in Large Language Models without Sacrificing General Performance
+31. Emova: Empowering language models to see, hear and speak with vivid emotions
+32. Uni-Med: A Unified Medical Generalist Foundation Model For Multi-Task Learning Via Connector-MoE
+33. DynMoLE: Boosting Mixture of LoRA Experts Fine-Tuning with a Hybrid Routing Mechanism
+34. Functional-level Uncertainty Quantification for Calibrated Fine-tuning on LLMs
+35. AT-MoE: Adaptive Task-planning Mixture of Experts via LoRA Approach
+36. Improving General Text Embedding Model: Tackling Task Conflict and Data Imbalance through Model Merging
+37. ViMoE: An Empirical Study of Designing Vision Mixture-of-Experts
+38. MiLoRA: Efficient Mixture of Low-Rank Adaptation for Large Language Models Fine-tuning
+39. ViMoE: An Empirical Study of Designing Vision Mixture-of-Experts
+40. MiLoRA: Efficient Mixture of Low-Rank Adaptation for Large Language Models Fine-tuning
+41. A Survey of Small Language Models
+42. Q-MoE: Connector for MLLMs with Text-Driven Routing
+43. Med-MoE: Mixture of Domain-Specific Experts for Lightweight Medical Vision-Language Models
+44. A Survey of Small Language Models
+45. Q-MoE: Connector for MLLMs with Text-Driven Routing
+46. Med-MoE: Mixture of Domain-Specific Experts for Lightweight Medical Vision-Language Models
+47. Separable Mixture of Low-Rank Adaptation for Continual Visual Instruction Tuning
+48. 法律案件要素识别混合专家大模型.
+49. Unlocking Tuning-Free Few-Shot Adaptability in Visual Foundation Models by Recycling Pre-Tuned LoRAs
+50. SAME: Learning Generic Language-Guided Visual Navigation with State-Adaptive Mixture of Experts
+51. Advancing Single-and Multi-task Text Classification through Large Language Model Fine-tuning
+52. GraphLoRA: Empowering LLMs Fine-Tuning via Graph Collaboration of MoE
+53. RapGuard: Safeguarding Multimodal Large Language Models via Rationale-aware Defensive Prompting
+54. Low-Rank Adaptation for Foundation Models: A Comprehensive Review
+55. Spot Risks Before Speaking! Unraveling Safety Attention Heads in Large Vision-Language Models
+56. [PDF] Exploring the Landscape of Large and Small Language Models: Advancements, Trade-offs, and Future Directions
+
+论文标题：Mixture-of-loras: An efficient multitask tuning for large language models
+该论文被引用次数：31
+该论文被检索到的引用文献：
+1. Parameter-efficient fine-tuning for large models: A comprehensive survey
+2. Trends and challenges of real-time learning in large language models: A critical review
+3. Mixture of insighTful Experts (MoTE): The Synergy of Thought Chains and Expert Mixtures in Self-Alignment
+4. [PDF] Towards Incremental Learning in Large Language Models: A Critical Review
+5. MeteoRA: Multiple-tasks Embedded LoRA for Large Language Models
+6. LoRA-Switch: Boosting the Efficiency of Dynamic LLM Adapters via System-Algorithm Co-design
+7. Customising generative AI: Harnessing document retrieval and fine-tuning alternatives for dynamic marketing insights
+8. Wings: Learning Multimodal LLMs without Text-only Forgetting
+9. Relation Extraction with Fine-Tuned Large Language Models in Retrieval Augmented Generation Frameworks
+10. Retrieval-augmented mixture of lora experts for uploadable machine learning
+11. MoDE: Effective Multi-task Parameter Efficient Fine-Tuning with a Mixture of Dyadic Experts
+12. Large Language Models for Programming Industrial Control Systems and Mitigating Real-World Software Vulnerabilities
+13. Teamlora: Boosting low-rank adaptation with expert collaboration and competition
+14. Adaptive Quantization Error Reconstruction for LLMs with Mixed Precision
+15. Leveraging Open Knowledge for Advancing Task Expertise in Large Language Models
+16. Survey of different Large Language Model Architectures: Trends, Benchmarks, and Challenges
+17. DLP-LoRA: Efficient Task-Specific LoRA Fusion with a Dynamic, Lightweight Plugin for Large Language Models
+18. DynMoLE: Boosting Mixture of LoRA Experts Fine-Tuning with a Hybrid Routing Mechanism
+19. Scalable Multi-Domain Adaptation of Language Models using Modular Experts
+20. Multi-trait User Simulation with Adaptive Decoding for Conversational Task Assistants
+21. LoRA Soups: Merging LoRAs for Practical Skill Composition Tasks
+22. MoMQ: Mixture-of-Experts Enhances Multi-Dialect Query Generation across Relational and Non-Relational Databases
+23. MoMQ: Mixture-of-Experts Enhances Multi-Dialect Query Generation across Relational and Non-Relational Databases
+24. A Survey of Small Language Models
+25. V-LoRA: An Efficient and Flexible System Boosts Vision Applications with LoRA LMM
+26. V-LoRA: An Efficient and Flexible System Boosts Vision Applications with LoRA LMM
+27. Advancing Single-and Multi-task Text Classification through Large Language Model Fine-tuning
+28. MoSLD: An Extremely Parameter-Efficient Mixture-of-Shared LoRAs for Multi-Task Learning
+29. FineGates: LLMs Finetuning with Compression using Stochastic Gates
+30. VELoRA: A Low-Rank Adaptation Approach for Efficient RGB-Event based Recognition
+31. Low-Rank Adaptation for Foundation Models: A Comprehensive Review
+
+论文标题：LoRAMoE: Alleviating world knowledge forgetting in large language models via MoE-style plugin
+该论文被引用次数：18
+该论文被检索到的引用文献：
+1. A survey on lora of large language models
+2. Visual Attention Estimation Algorithm and Dynamic Neural Network Based Object Detection for Intelligent Vehicles
+3. CorDA: Context-Oriented Decomposition Adaptation of Large Language Models
+4. The Evolution of Mixture of Experts: A Survey from Basics to Breakthroughs
+5. MoE-LPR: Multilingual Extension of Large Language Models through Mixture-of-Experts with Language Priors Routing
+6. CITI: Enhancing Tool Utilizing Ability in Large Language Models without Sacrificing General Performance
+7. HDMoLE: Mixture of LoRA Experts with Hierarchical Routing and Dynamic Thresholds for Fine-Tuning LLM-based ASR Models
+8. DLP-LoRA: Efficient Task-Specific LoRA Fusion with a Dynamic, Lightweight Plugin for Large Language Models
+9. AlphaLoRA: Assigning LoRA Experts Based on Layer Training Quality
+10. MALoRA: Mixture of Asymmetric Low-Rank Adaptation for Enhanced Multi-Task Learning
+11. CorDA: Context-Oriented Decomposition Adaptation of Large Language Models for Task-Aware Parameter-Efficient Fine-tuning
+12. CorDA: Context-Oriented Decomposition Adaptation of Large Language Models for Task-Aware Parameter-Efficient Fine-tuning
+13. EC-PEFT: An Expertise-Centric Parameter-Efficient Fine-Tuning Framework for Large Language Models
+14. Аналіз настроїв текстових повідомлень із використанням методів машинного навчання
+15. Advancing Single-and Multi-task Text Classification through Large Language Model Fine-tuning
+16. A Survey on Inference Optimization Techniques for Mixture of Experts Models
+17. Low-Rank Adaptation for Foundation Models: A Comprehensive Review
+18. The Scaling Law for LoRA Base on Mutual Information Upper Bound
+

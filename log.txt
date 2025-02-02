@@ -1,0 +1,73 @@
+PS C:\Users\86133\Desktop\大三（上）必修：数据采集技术实践\CiteHelper> & "D:/Microsoft Visual Studio/shared/Python39_64/python.exe" c:/Users/86133/Desktop/大三（上）必修：数据采集技术实践/CiteHelper/rep.py
+
+DevTools listening on ws://127.0.0.1:53321/devtools/browser/952ca885-be43-4937-8bdc-5622e5c4ff1d
+[5084:16944:1118/101552.114:ERROR:device_event_log_impl.cc(201)] [10:15:52.114] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 找不到元素。 (0x490)
+论文标题：Moelora: An moe-based parameter efficient fine-tuning method for multi-task medical applications
+该论文被引用次数增加7次
+检测到验证码，请手动完成验证。
+完成验证码后按回车继续...Created TensorFlow Lite XNNPACK delegate for CPU.
+
+❤新增的被引用文献有：
+1. MiLoRA: Efficient Mixture of Low-Rank Adaptation for Large Language Models Fine-tuning
+2. Parameter-Efficient Fine-Tuning in Large Models: A Survey of Methodologies
+3. A Survey of Small Language Models
+4. Reparameterization-Based Parameter-Efficient Fine-Tuning Methods for Large Language Models: A Systematic Survey
+5. CorDA: Context-Oriented Decomposition Adaptation of Large Language Models for Task-Aware Parameter-Efficient Fine-tuning
+6. Instance-Level Dynamic LoRAs Composition for Cross-Task Generalization
+7. From General to Specific: Utilizing General Hallucation to Automatically Measure the Role Relationship Fidelity for Specific Role-Play Agents
+论文标题：Moelora: Contrastive learning guided mixture of experts on parameter-efficient fine-tuning for large language models
+该论文被引用次数增加4次
+❤新增的被引用文献有：
+1. AlphaLoRA: Assigning LoRA Experts Based on Layer Training Quality
+2. A Survey of Small Language Models
+3. MALoRA: Mixture of Asymmetric Low-Rank Adaptation for Enhanced Multi-Task Learning
+4. Iterative Large Language Models Evolution through Self-Critique
+论文标题：LoRAMoE: Alleviating world knowledge forgetting in large language models via MoE-style plugin
+新添加论文
+论文标题：Higher layers need more lora experts
+该论文被引用次数增加4次
+❤新增的被引用文献有：
+1. MALoRA: Mixture of Asymmetric Low-Rank Adaptation for Enhanced Multi-Task Learning
+2. What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective
+3. Reparameterization-Based Parameter-Efficient Fine-Tuning Methods for Large Language Models: A Systematic Survey
+4. Sparse Mixture of Experts Language Models Excel in Knowledge Distillation
+论文标题：MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning
+该论文被引用次数增加5次
+❤新增的被引用文献有：
+1. FROM LOW TO ARBITRARY RANK
+2. SLIM: Let LLM Learn More and Forget Less with Soft LoRA and Identity Mixture
+3. Prompt Compression for Large Language Models: A Survey
+4. [PDF] Optimizing Fine-Tuning in Quantized Language Models: An In-Depth Analysis of Key Variables
+5. SFT: Efficient, Scalable and Generalizable LLM Fine-tuning by Structured Sparsity
+论文标题：Mixlora: Enhancing large language models fine-tuning with lora based mixture of experts
+该论文被引用次数增加3次
+❤新增的被引用文献有：
+1. AlphaLoRA: Assigning LoRA Experts Based on Layer Training Quality
+2. MoMQ: Mixture-of-Experts Enhances Multi-Dialect Query Generation across Relational and Non-Relational Databases
+3. MALoRA: Mixture of Asymmetric Low-Rank Adaptation for Enhanced Multi-Task Learning
+论文标题：Mixture-of-Subspaces in Low-Rank Adaptation
+该论文被引用次数增加2次
+❤新增的被引用文献有：
+1. MoR: Mixture of Ranks for Low-Rank Adaptation Tuning
+2. Linear Chain Transformation: Expanding Optimization Dynamics for Fine-Tuning Large Language Models
+论文标题：MoRAL: MoE Augmented LoRA for LLMs' Lifelong Learning
+该论文被引用次数增加3次
+❤新增的被引用文献有：
+1. A Survey of Small Language Models
+2. Towards Multi-dimensional Explanation Alignment for Medical Classification
+3. MALoRA: Mixture of Asymmetric Low-Rank Adaptation for Enhanced Multi-Task Learning
+论文标题：Mixture of cluster-conditional lora experts for vision-language instruction tuning
+该论文被引用次数增加5次
+❤新增的被引用文献有：
+1. ViMoE: An Empirical Study of Designing Vision Mixture-of-Experts
+2. MiLoRA: Efficient Mixture of Low-Rank Adaptation for Large Language Models Fine-tuning
+3. A Survey of Small Language Models
+4. Q-MoE: Connector for MLLMs with Text-Driven Routing
+5. Med-MoE: Mixture of Domain-Specific Experts for Lightweight Medical Vision-Language Models
+论文标题：Mixture-of-loras: An efficient multitask tuning for large language models
+该论文被引用次数增加3次
+❤新增的被引用文献有：
+1. MoMQ: Mixture-of-Experts Enhances Multi-Dialect Query Generation across Relational and Non-Relational Databases
+2. A Survey of Small Language Models
+3. V-LoRA: An Efficient and Flexible System Boosts Vision Applications with LoRA LMM
+完成爬取，数据已写入
