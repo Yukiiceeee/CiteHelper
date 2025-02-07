@@ -1,5 +1,5 @@
 论文标题：Moelora: An moe-based parameter efficient fine-tuning method for multi-task medical applications
-该论文被引用次数：72
+该论文被引用次数：77
 该论文被检索到的引用文献：
 1. Parameter-efficient fine-tuning methods for pretrained language models: A critical review and assessment
 2. The Art of Balancing: Revolutionizing Mixture of Experts for Maintaining World Knowledge in Language Model Alignment
@@ -70,9 +70,14 @@
 67. Low-Rank Adaptation for Foundation Models: A Comprehensive Review
 68. The Scaling Law for LoRA Base on Mutual Information Upper Bound
 69. [PDF] Exploring the Landscape of Large and Small Language Models: Advancements, Trade-offs, and Future Directions
+70. OMoE: Diversifying Mixture of Low-Rank Adaptation by Orthogonal Finetuning
+71. Adapters Selector: Cross-domains and Multi-tasks LoRA Modules Integration Usage Method
+72. Parameter-Efficient Fine-Tuning for Foundation Models
+73. Each Rank Could be an Expert: Single-Ranked Mixture of Experts LoRA for Multi-Task Learning
+74. Sherlock: Towards Multi-scene Video Abnormal Event Extraction and Localization via a Global-local Spatial-sensitive LLM
 
 论文标题：Moelora: Contrastive learning guided mixture of experts on parameter-efficient fine-tuning for large language models
-该论文被引用次数：24
+该论文被引用次数：27
 该论文被检索到的引用文献：
 1. Neeko: Leveraging Dynamic LoRA for Efficient Multi-Character Role-Playing Agent
 2. LoRA-Switch: Boosting the Efficiency of Dynamic LLM Adapters via System-Algorithm Co-design
@@ -98,6 +103,9 @@
 22. GraphLoRA: Empowering LLMs Fine-Tuning via Graph Collaboration of MoE
 23. VELoRA: A Low-Rank Adaptation Approach for Efficient RGB-Event based Recognition
 24. Low-Rank Adaptation for Foundation Models: A Comprehensive Review
+25. Low-Rank Adaptation for Foundation Models: A Comprehensive Review
+26. GRAPHMOE: Amplifying Cognitive Depth of Mixture-of-Experts Network via Introducing Self-Rethinking Mechanism
+27. MoKA: Parameter Efficiency Fine-Tuning via Mixture of Kronecker Product Adaption
 
 论文标题：LoRAMoE: Alleviating World Knowledge Forgetting in Large Language Models via MoE-Style Plugin
 该论文被引用次数：9
@@ -113,7 +121,7 @@
 9. AlphaLoRA: Assigning LoRA Experts Based on Layer Training Quality
 
 论文标题：Higher layers need more lora experts
-该论文被引用次数：30
+该论文被引用次数：33
 该论文被检索到的引用文献：
 1. [PDF] MoSA: Mixture of Sparse Adapters for Visual Efficient Tuning
 2. A survey on lora of large language models
@@ -145,9 +153,12 @@
 28. A Survey on Inference Optimization Techniques for Mixture of Experts Models
 29. GraphLoRA: Empowering LLMs Fine-Tuning via Graph Collaboration of MoE
 30. Low-Rank Adaptation for Foundation Models: A Comprehensive Review
+31. An intelligent prediction paradigm for milling tool parameters design based on multi-task tabular data deep transfer learning integrating physical knowledge
+32. GRAPHMOE: Amplifying Cognitive Depth of Mixture-of-Experts Network via Introducing Self-Rethinking Mechanism
+33. Adapters Selector: Cross-domains and Multi-tasks LoRA Modules Integration Usage Method
 
 论文标题：MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning
-该论文被引用次数：17
+该论文被引用次数：21
 该论文被检索到的引用文献：
 1. Rapid Biomedical Research Classification: The Pandemic PACT Advanced Categorisation Engine
 2. Accurate and Efficient Fine-Tuning of Quantized Large Language Models Through Optimal Balance
@@ -165,9 +176,13 @@
 14. SFT: Efficient, Scalable and Generalizable LLM Fine-tuning by Structured Sparsity
 15. Learning from" Silly" Questions Improves Large Language Models, But Only Slightly
 16. BoRA: Bi-dimensional Weight-Decomposed Low-Rank Adaptation
+17. Optimizing Fine-Tuning in Quantized Language Models: An In-Depth Analysis of Key Variables.
+18. CURing Large Models: Compression via CUR Decomposition
+19. Tensor Product Attention Is All You Need
+20. Fine Tuning without Catastrophic Forgetting via Selective Low Rank Adaptation
 
 论文标题：Mixlora: Enhancing large language models fine-tuning with lora based mixture of experts
-该论文被引用次数：30
+该论文被引用次数：34
 该论文被检索到的引用文献：
 1. LoRA-Switch: Boosting the Efficiency of Dynamic LLM Adapters via System-Algorithm Co-design
 2. Aligning to thousands of preferences via system message generalization
@@ -199,9 +214,13 @@
 28. GraphLoRA: Empowering LLMs Fine-Tuning via Graph Collaboration of MoE
 29. Trustworthy and Efficient LLMs Meet Databases
 30. Optimizing Large Language Models with an Enhanced LoRA Fine-Tuning Algorithm for Efficiency and Robustness in NLP Tasks
+31. GRAPHMOE: Amplifying Cognitive Depth of Mixture-of-Experts Network via Introducing Self-Rethinking Mechanism
+32. OMoE: Diversifying Mixture of Low-Rank Adaptation by Orthogonal Finetuning
+33. Adapters Selector: Cross-domains and Multi-tasks LoRA Modules Integration Usage Method
+34. Each Rank Could be an Expert: Single-Ranked Mixture of Experts LoRA for Multi-Task Learning
 
 论文标题：Mixture-of-Subspaces in Low-Rank Adaptation
-该论文被引用次数：8
+该论文被引用次数：9
 该论文被检索到的引用文献：
 1. Low-Rank Interconnected Adaptation Across Layers
 2. MoR: Mixture of Ranks for Low-Rank Adaptation Tuning
@@ -211,9 +230,10 @@
 6. Linear Chain Transformation: Expanding Optimization Dynamics for Fine-Tuning Large Language Models
 7. Adaptive Rank, Reduced Forgetting: Knowledge Retention in Continual Learning Vision-Language Models with Dynamic Rank-Selective LoRA
 8. Quantization Meets Reasoning: Exploring LLM Low-Bit Quantization Degradation for Mathematical Reasoning
+9. GRAPHMOE: Amplifying Cognitive Depth of Mixture-of-Experts Network via Introducing Self-Rethinking Mechanism
 
 论文标题：MoRAL: MoE Augmented LoRA for LLMs' Lifelong Learning
-该论文被引用次数：32
+该论文被引用次数：33
 该论文被检索到的引用文献：
 1. A survey on lora of large language models
 2. Prompt-saw: Leveraging relation-aware graphs for textual prompt compression
@@ -245,9 +265,10 @@
 28. Low-Rank Adaptation for Foundation Models: A Comprehensive Review
 29. The Scaling Law for LoRA Base on Mutual Information Upper Bound
 30. [PDF] Exploring the Landscape of Large and Small Language Models: Advancements, Trade-offs, and Future Directions
+31. [PDF] Exploring the Landscape of Large and Small Language Models: Advancements, Trade-offs, and Future Directions
 
 论文标题：Mixture of cluster-conditional lora experts for vision-language instruction tuning
-该论文被引用次数：59
+该论文被引用次数：64
 该论文被检索到的引用文献：
 1. [PDF] MoSA: Mixture of Sparse Adapters for Visual Efficient Tuning
 2. [PDF] TrackDiffusion: Tracklet-Conditioned Video Generation via Diffusion Models
@@ -305,9 +326,14 @@
 54. Low-Rank Adaptation for Foundation Models: A Comprehensive Review
 55. Spot Risks Before Speaking! Unraveling Safety Attention Heads in Large Vision-Language Models
 56. [PDF] Exploring the Landscape of Large and Small Language Models: Advancements, Trade-offs, and Future Directions
+57. Spot Risks Before Speaking! Unraveling Safety Attention Heads in Large Vision-Language Models
+58. [PDF] Exploring the Landscape of Large and Small Language Models: Advancements, Trade-offs, and Future Directions
+59. GRAPHMOE: Amplifying Cognitive Depth of Mixture-of-Experts Network via Introducing Self-Rethinking Mechanism
+60. Improved Sparse Upcycling for Instruction Tuning
+61. HotMoE: Exploring Sparse Mixture-of-Experts for Hyperspectral Object Tracking
 
 论文标题：Mixture-of-loras: An efficient multitask tuning for large language models
-该论文被引用次数：31
+该论文被引用次数：35
 该论文被检索到的引用文献：
 1. Parameter-efficient fine-tuning for large models: A comprehensive survey
 2. Trends and challenges of real-time learning in large language models: A critical review
@@ -340,9 +366,13 @@
 29. FineGates: LLMs Finetuning with Compression using Stochastic Gates
 30. VELoRA: A Low-Rank Adaptation Approach for Efficient RGB-Event based Recognition
 31. Low-Rank Adaptation for Foundation Models: A Comprehensive Review
+32. Low-Rank Adaptation for Foundation Models: A Comprehensive Review
+33. LLM4CVE: Enabling Iterative Automated Vulnerability Repair with Large Language Models
+34. Adapters Selector: Cross-domains and Multi-tasks LoRA Modules Integration Usage Method
+35. Each Rank Could be an Expert: Single-Ranked Mixture of Experts LoRA for Multi-Task Learning
 
 论文标题：LoRAMoE: Alleviating world knowledge forgetting in large language models via MoE-style plugin
-该论文被引用次数：18
+该论文被引用次数：20
 该论文被检索到的引用文献：
 1. A survey on lora of large language models
 2. Visual Attention Estimation Algorithm and Dynamic Neural Network Based Object Detection for Intelligent Vehicles
@@ -362,4 +392,87 @@
 16. A Survey on Inference Optimization Techniques for Mixture of Experts Models
 17. Low-Rank Adaptation for Foundation Models: A Comprehensive Review
 18. The Scaling Law for LoRA Base on Mutual Information Upper Bound
+19. Adapters Selector: Cross-domains and Multi-tasks LoRA Modules Integration Usage Method
+20. MergeME: Model Merging Techniques for Homogeneous and Heterogeneous MoEs
+
+论文标题：CTRLorALTer: Conditional LoRAdapter for Efficient 0-Shot Control and Altering of T2I Models
+该论文被引用次数：2
+该论文被检索到的引用文献：
+1. Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2.
+2. Concept Steerers: Leveraging K-Sparse Autoencoders for Controllable Generations
+
+论文标题：Implicit style-content separation using b-lora
+该论文被引用次数：12
+该论文被检索到的引用文献：
+1. Style-nerf2nerf: 3d style transfer from style-aligned multi-view images
+2. A survey on lora of large language models
+3. StyleTex: Style Image-Guided Texture Generation for 3D Models
+4. FineStyle: Fine-grained Controllable Style Personalization for Text-to-image Models
+5. UnZipLoRA: Separating Content and Style from a Single Image
+6. LoRA. rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style Conditioned Image Generation
+7. CustomTTT: Motion and Appearance Customized Video Generation via Test-Time Training
+8. Low-Rank Adaptation for Foundation Models: A Comprehensive Review
+
+论文标题：Ziplora: Any subject in any style by effectively merging loras
+该论文被引用次数：70
+该论文被检索到的引用文献：
+1. Does Combining Parameter-efficient Modules Improve Few-shot Transfer Accuracy?
+2. Controllable generation with text-to-image diffusion models: A survey
+3. FSViewFusion: Few-Shots View Generation of Novel Objects
+4. LoRA-Composer: Leveraging Low-Rank Adaptation for Multi-Concept Customization in Training-Free Diffusion Models
+5. Llm merging: Building llms efficiently through merging
+6. Synthetic vs real: exploring the impact of synthetic data on medical image classification
+7. PhysMLE: Generalizable and Priors-Inclusive Multi-task Remote Physiological Measurement
+8. Towards modular llms by building and reusing a library of loras
+9. FreeTuner: Any Subject in Any Style with Training-free Diffusion
+10. RB-Modulation: Training-Free Personalization of Diffusion Models using Stochastic Optimal Control
+11. Personalized Pieces: Efficient Personalized Large Language Models through Collaborative Efforts
+12. Style-nerf2nerf: 3d style transfer from style-aligned multi-view images
+13. Géométrie des vecteurs de tâches pour l'association et la combinaison de modèles
+14. Adapt to Scarcity: Few-Shot Deepfake Detection via Low-Rank Adaptation
+15. Magmax: Leveraging model merging for seamless continual learning
+16. MoDE: Effective Multi-task Parameter Efficient Fine-Tuning with a Mixture of Dyadic Experts
+17. Model merging in llms, mllms, and beyond: Methods, theories, applications and opportunities
+18. Diffusion-based visual art creation: A survey and new perspectives
+19. Training-free Color-Style Disentanglement for Constrained Text-to-Image Synthesis
+20. Multi-modal generative ai: Multi-modal llm, diffusion and beyond
+21. MV-Adapter: Multi-view Consistent Image Generation Made Easy
+22. Attack on LLMs: LoRA Once, Backdoor Everywhere in the Share-and-Play Ecosystem
+23. What Matters for Model Merging at Scale?
+24. Low-Rank Continual Personalization of Diffusion Models
+25. Merging in a Bottle: Differentiable Adaptive Merging (DAM) and the Path from Averaging to Automation
+26. Deep Linear Probe Generators for Weight Space Learning
+27. Efficient diffusion models: A comprehensive survey from principles to practices
+28. Lora soups: Merging loras for practical skill composition tasks
+29. Representing Model Weights with Language using Tree Experts
+30. HiCo: Hierarchical Controllable Diffusion Model for Layout-to-image Generation
+31. MultiLoRA: Multi-Directional Low Rank Adaptation for Multi-Domain Recommendation
+32. Model merging with SVD to tie the Knots
+33. StyleTex: Style Image-Guided Texture Generation for 3D Models
+34. Hollowed Net for On-Device Personalization of Text-to-Image Diffusion Models
+35. HiCo: Hierarchical Controllable Diffusion Model for Layout-to-image Generation
+36. Time-Varying LoRA: Towards Effective Cross-Domain Fine-Tuning of Diffusion Models
+37. Recapture: Generative video camera controls for user-provided videos using masked video fine-tuning
+38. Joint Diffusion models in Continual Learning
+39. IterIS: Iterative Inference-Solving Alignment for LoRA Merging
+40. Multi LoRA Meets Vision: Merging multiple adapters to create a multi task model
+41. LoRA of Change: Learning to Generate LoRA for the Editing Instruction from A Single Before-After Image Pair
+42. Safety Alignment Backfires: Preventing the Re-emergence of Suppressed Concepts in Fine-tuned Text-to-Image Diffusion Models
+43. Mv-adapter: Multi-view consistent image generation made easy
+44. UnZipLoRA: Separating Content and Style from a Single Image
+45. LoRA. rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style Conditioned Image Generation
+46. LoRACLR: Contrastive Adaptation for Customization of Diffusion Models
+47. MulSMo: Multimodal Stylized Motion Generation by Bidirectional Control Flow
+48. SafetyDPO: Scalable Safety Alignment for Text-to-Image Generation
+49. Towards maintainable machine learning development through continual and modular learning
+50. Conditional Balance: Improving Multi-Conditioning Trade-Offs in Image Generation
+51. Low-Rank Adaptation for Foundation Models: A Comprehensive Review
+52. ComMer: a Framework for Compressing and Merging User Data for Personalization
+53. DAViD: Modeling Dynamic Affordance of 3D Objects using Pre-trained Video Diffusion Models
+54. Bringing Characters to New Stories: Training-Free Theme-Specific Image Generation via Dynamic Visual Prompting
+55. Fine Tuning without Catastrophic Forgetting via Selective Low Rank Adaptation
+
+论文标题：UnZipLoRA: Separating Content and Style from a Single Image
+该论文被引用次数：0
+该论文被检索到的引用文献：
 

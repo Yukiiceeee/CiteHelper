@@ -15,7 +15,6 @@ def setup_driver():
     chrome_options.add_argument(
         "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36"
     )
-    # 替换为你的 ChromeDriver 路径
     driver_path = r"D:\ChromeDriver\chromedriver-win64\chromedriver.exe"
     service = Service(executable_path=driver_path)
     driver = webdriver.Chrome(service=service, options=chrome_options)
